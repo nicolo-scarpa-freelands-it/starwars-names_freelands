@@ -1,6 +1,6 @@
 {
   "name": "starwars-names_freelands",
-  "version": "1.2.0-beta.0",
+  "version": "1.2.0",
   "description": "Get random Star Wars names.",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://nicolo_scarpa-freelands_it@bitbucket.org/sviluppofreelands/starwars-names.git"
+    "url": "git+https://github.com/nicolo-scarpa-freelands-it/starwars-names_freelands.git"
   },
   "keywords": [
     "random",
@@ -17,7 +17,7 @@
   ],
   "author": "Nicolò Scarpa <nicolo.scarpa@freelands.it>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/sviluppofreelands/starwars-names#readme",
+  "homepage": "https://github.com/nicolo-scarpa-freelands-it/starwars-names_freelands#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
