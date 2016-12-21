@@ -17,5 +17,8 @@
   ],
   "author": "Nicolò Scarpa <nicolo.scarpa@freelands.it>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/sviluppofreelands/starwars-names#readme"
+  "homepage": "https://bitbucket.org/sviluppofreelands/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
